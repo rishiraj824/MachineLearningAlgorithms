@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6990d6da-4c73-457b-bc5c-3c2f96a21b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linear-regression-with-sklearn/regression-using-sklearn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gaussian-distribution/gaussian-distribution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/gaussian-distribution/gaussian-distribution.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582249331008</updated>
-      <workItem from="1582249333956" duration="1466000" />
+      <workItem from="1582249333956" duration="1792000" />
     </task>
     <servers />
   </component>
