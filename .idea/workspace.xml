@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6990d6da-4c73-457b-bc5c-3c2f96a21b5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/gaussian-distribution/gaussian-distribution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/gaussian-distribution/gaussian-distribution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582249331008</updated>
-      <workItem from="1582249333956" duration="1792000" />
+      <workItem from="1582249333956" duration="2148000" />
+      <workItem from="1582669494535" duration="22000" />
     </task>
     <servers />
   </component>
@@ -64,7 +65,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
