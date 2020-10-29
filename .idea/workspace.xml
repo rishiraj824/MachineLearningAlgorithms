@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6990d6da-4c73-457b-bc5c-3c2f96a21b5f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k-means-clustering/Homework_6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/k-means-clustering/k-means.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pca-places-almanac/places-almanac.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pca-places-almanac/places-almanac.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +59,7 @@
       <workItem from="1582669494535" duration="22000" />
       <workItem from="1586026674531" duration="719000" />
       <workItem from="1587095275843" duration="237000" />
-      <workItem from="1589997702826" duration="261000" />
+      <workItem from="1589997702826" duration="345000" />
     </task>
     <servers />
   </component>
